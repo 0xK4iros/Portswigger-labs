@@ -10,7 +10,7 @@
 ### Authentication Vulnerabilities
 | Lab | Level | Write-up |
 |-----|-------|----------|
-| [Authentication — Brute Force](/Authentication%20vulnerabilities/README.md) | Apprentice | Brute-Force attack using a python script |
+| [Authentication — Brute Force Attack](/Authentication%20vulnerabilities/README.md) | Apprentice | Username enumeration via response anomalies followed by password brute-forcing |
 
 ### SQL Injection
 
