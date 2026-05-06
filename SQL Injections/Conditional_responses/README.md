@@ -2,6 +2,10 @@
 
 > PortSwigger Web Security Academy | SQL Injection | Practitioner
 
+> PortSwigger Web Security Academy 
+
+![Practitioner](https://img.shields.io/badge/Level-Practitioner-orange?style=flat-square)
+![SQL Injection](https://img.shields.io/badge/Type-SQL%20Injection-red?style=flat-square)
 ## Description
 
 ![Lab description](assets/lab_description.png)
