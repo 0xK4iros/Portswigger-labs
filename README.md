@@ -7,6 +7,11 @@
 
 ## Index
 
+### Authentication Vulnerabilities
+| Lab | Level | Write-up |
+|-----|-------|----------|
+| [Authentication — Brute Force](/Authentication%20vulnerabilities/README.md) | Apprentice | Brute-Force attack using a python script |
+
 ### SQL Injection
 
 | Lab | Level | Write-up |
