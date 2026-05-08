@@ -41,7 +41,7 @@ Once the valid username is captured, we lock it in and iterate through a passwor
 
 ## Script
 
-The `brute_force_login.py` script automates both phases of the attack seamlessly. It loads the wordlists into memory, prevents terminal visual artifacts during execution, and tracks the total time taken to crack the account.
+The `username_enumeration_basic.py` script automates both phases of the attack seamlessly. It loads the wordlists into memory, prevents terminal visual artifacts during execution, and tracks the total time taken to crack the account.
 
 **Key Features:**
 1. **Automated Two-Step Logic:** Seamlessly transitions from enumeration to brute-forcing without manual intervention.
@@ -50,7 +50,7 @@ The `brute_force_login.py` script automates both phases of the attack seamlessly
 
 **Usage:**
 ```bash
-python brute_force_login.py -U <USERNAMES_FILE> -P <PASSWORDS_FILE> -u <TARGET_URL> 
+python busername_enumeration_basic.py -U <USERNAMES_FILE> -P <PASSWORDS_FILE> -u <TARGET_URL> 
 ```
 
 | Flag | Description | Default |

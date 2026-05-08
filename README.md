@@ -8,9 +8,11 @@
 ## Index
 
 ### Authentication Vulnerabilities
+
 | Lab | Level | Write-up |
 |-----|-------|----------|
-| [Authentication — Brute Force](/Authentication%20vulnerabilities/README.md) | Apprentice | Brute-Force attack using a python script |
+| [username_enumeration_basic](/Authentication%20vulnerabilities/01%20username_enumeration_basic/README.md) | Apprentice | Username enumeration via response anomalies followed by password brute-forcing |
+| [username_enumeration_subtle](/Authentication%20vulnerabilities/02%20username_enumeration_subtle.py/README.md) | Practitioner | Username enumeration via subtly different responses (Bypassing dynamic length with Regex) |
 
 ### SQL Injection
 
