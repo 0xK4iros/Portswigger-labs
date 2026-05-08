@@ -1,5 +1,4 @@
 # Portswigger-labs
-# Portswigger-labs
 
 > A structured collection of scripts and write-ups developed while working through the PortSwigger Web Security Academy.
 
