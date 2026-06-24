@@ -1,5 +1,9 @@
 # Portswigger-labs
 
+## ⚠️ Legal Disclaimer
+This tool is strictly for educational purposes, authorized penetration testing, and security auditing. The author is not responsible for any misuse, damage, or illegal activities caused by this software. Use it at your own risk and only on networks/systems you explicitly own or have written permission to test.
+
+
 > A structured collection of scripts and write-ups developed while working through the PortSwigger Web Security Academy.
 
 ---
